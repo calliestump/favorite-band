@@ -1,6 +1,6 @@
 # Favorite Band
 
-#### **Epicodus; 10.23.2020**
+#### **Epicodus; 09.15.2020**
 
 ### By _Callie Stump & Nathan Schrader_
 ---
