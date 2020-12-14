@@ -22,7 +22,7 @@ $ code .
 ```
 #### You can't forget that in order to push any changes you need to add your own repository.
 ```
-git remote origin [https://github.com/calliestump/favorite-band]
+git remote origin [repo link]
 ```
 ## **Technologies Used**
 * HTML
